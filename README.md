@@ -1,5 +1,7 @@
 # Fraction-class
 Fraction class construction with basic math
+
+
 public static Fraction operator -(Fraction fraction1, Fraction fraction2)
         {
             int nummerator = fraction1.Numerator * fraction2.Denominator - fraction1.Denominator * fraction2.Numerator;
@@ -8,6 +10,8 @@ public static Fraction operator -(Fraction fraction1, Fraction fraction2)
             sub.Simplification();
             return sub;
         }
+        
+        
 public Fraction Multiply(Fraction fraction2)
         {
             int nummerator = Numerator * fraction2.Numerator;
@@ -16,4 +20,6 @@ public Fraction Multiply(Fraction fraction2)
             mul.Simplification();
             return mul;
         }
+        
+        
 I build mathematical operations by overriding operators or creating properties (the purpose here is to demonstrate different handling in OOP)

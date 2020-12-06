@@ -1,0 +1,13 @@
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\bin\Debug\netcoreapp3.1\Fraction_GK.exe
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\bin\Debug\netcoreapp3.1\Fraction_GK.deps.json
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\bin\Debug\netcoreapp3.1\Fraction_GK.runtimeconfig.json
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\bin\Debug\netcoreapp3.1\Fraction_GK.runtimeconfig.dev.json
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\bin\Debug\netcoreapp3.1\Fraction_GK.dll
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\bin\Debug\netcoreapp3.1\Fraction_GK.pdb
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.csprojAssemblyReference.cache
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.AssemblyInfoInputs.cache
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.AssemblyInfo.cs
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.csproj.CoreCompileInputs.cache
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.dll
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.pdb
+C:\Users\HIEU.TX185354\Desktop\OOP_MrTruong\Fraction_GK\obj\Debug\netcoreapp3.1\Fraction_GK.genruntimeconfig.cache
